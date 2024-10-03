@@ -13,7 +13,7 @@
       <link>http://localhost:1313/portofolio/posts/my-first-post/</link>
       <pubDate>Thu, 03 Oct 2024 20:24:05 +0700</pubDate>
       <guid>http://localhost:1313/portofolio/posts/my-first-post/</guid>
-      <description>&lt;p&gt;this is my first post&lt;/p&gt;</description>
+      <description>An LSM Tree overview and Java implementation.</description>
     </item>
   </channel>
 </rss>

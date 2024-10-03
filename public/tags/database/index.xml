@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Porto Aziz Faozi</title>
-    <link>http://localhost:1313/portofolio/</link>
-    <description>Recent content in Home on Porto Aziz Faozi</description>
+    <title>Database on Porto Aziz Faozi</title>
+    <link>http://localhost:1313/portofolio/tags/database/</link>
+    <description>Recent content in Database on Porto Aziz Faozi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 03 Oct 2024 20:24:05 +0700</lastBuildDate>
-    <atom:link href="http://localhost:1313/portofolio/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/portofolio/tags/database/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/portofolio/posts/my-first-post/</link>

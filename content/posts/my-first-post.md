@@ -1,6 +1,6 @@
 ---
-title = 'My First Post'
-date = 2024-10-03T20:24:05+07:00
+title : 'My First Post'
+date : 2024-10-03T20:24:05+07:00
 summary: "An LSM Tree overview and Java implementation."
 description: "An LSM Tree overview and Java implementation."
 toc: true
