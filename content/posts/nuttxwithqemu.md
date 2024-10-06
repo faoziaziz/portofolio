@@ -3,7 +3,6 @@ title : 'Nuttx dengan Qemu'
 date : 2024-10-06T14:21:53+07:00
 summary : "Bagian ini adalah catatan tentang menjalankan nuttx dengan Qemu"
 description : "Bagian ini adalah catatan tentang menjalankan nuttx dengan Qemu"
-toc: true
 readTime: true
 autonumber: true
 math: true
@@ -11,8 +10,7 @@ tags: ["NuttX", "C", "Embedded"]
 showTags: false
 hideBackToTop: false
 ---
-
-Qemu merupakan sebuah emulator yang bagus untuk mensimulasikan linux lalu bagaimana jika kita ingin menggunakan NuttX yang dijalanakan melalui Qemu. Oh tentu saja bisa kita bisa membuild code nuttx dan melakukannya berjalan pada emulator Qemu. Seperti halnya membuat program aplikasi dengan menggunakan linux, maksudnya membuild sebuah sistem operating linux kita perlu mendownload code source tools dan apps untuk nuttx. Pertama buat direktori untuk pengerjaan NuttX dengan qemu. 
+Buat kamu yang belum memiliki hardware untuk menjalankan NuttX dalam hardware kalian. Kalian bisa menggunkan Qemu sebagai alternatif untuk menjalakan program NuttX anda. Qemu merupakan sebuah emulator yang bagus untuk mensimulasikan linux lalu bagaimana jika kita ingin menggunakan NuttX yang dijalanakan melalui Qemu. Oh tentu saja bisa kita bisa membuild code nuttx dan melakukannya berjalan pada emulator Qemu. Seperti halnya membuat program aplikasi dengan menggunakan linux, maksudnya membuild sebuah sistem operating linux kita perlu mendownload code source tools dan apps untuk nuttx. Pertama buat direktori untuk pengerjaan NuttX dengan qemu. 
 
 ```bash
 mkdir ~/NuttXqemu
