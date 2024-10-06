@@ -47,7 +47,7 @@ nanti akan muncul code qemu dengan nuttx yang ada didalamnya. Qemu akan mensimul
 
 berikut adalah tampilan dari console nuttx yang dijalankan dalam Qemu.
 
-![Gambar Console Qemu](./Screenshot_20241006_145954.png "Console Qemu")
+![Gambar Console Qemu](https://faoziaziz.github.io/portofolio/posts/Screenshot_20241006_145954.png "Console Qemu")
 
 untuk mengetahui command apa yang bisa dijalakan gunakan tanda "?" lalu tekan enter.
 
