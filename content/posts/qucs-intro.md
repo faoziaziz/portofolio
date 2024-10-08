@@ -37,3 +37,4 @@ Dalam simulasi pertama kita akan membuat sebuah rangkaian filter yang terdiri da
 
 ![Contoh Simulasi Qucs Sinyal AC](https://faoziaziz.github.io/portofolio/posts/acsimulation.png "Simulasi sinyal AC Qucs")
 
+Gambar diatas adalah hasil dari simulasi dengan menggunakan Qucs untuk sinyal AC.
