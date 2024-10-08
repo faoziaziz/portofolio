@@ -35,5 +35,5 @@ sudo apt-get install ngspice octave
 # Memulai simulasi pertama
 Dalam simulasi pertama kita akan membuat sebuah rangkaian filter yang terdiri dari Capacitor dan resistor. Kita kan melihat nilai frequensi yang mempengaruhi nilai daya rata-rata dari capacitor. Rangkaian filter bisa didesain dengan cara yang sederhana kita bisa mendapatkan pemahaman tentang nilai alternating current dari rangkaian yang akan kita bangun nanti. Pengaruh nilai frequensi yang menentukan nilai reaktansi dari induktor ataupun kapasitor akan bisa kita jelaskan melalui proses simulasi nanti.
 
-![Contoh Simulasi Qucs Sinyal AC](https://faoziaziz.github.io/portofolio/posts/posts/acsimulation.png "Simulasi sinyal AC Qucs")
+![Contoh Simulasi Qucs Sinyal AC](https://faoziaziz.github.io/portofolio/posts/acsimulation.png "Simulasi sinyal AC Qucs")
 
