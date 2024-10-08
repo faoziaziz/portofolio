@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Porto Aziz Faozi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 06 Oct 2024 14:21:53 +0700</lastBuildDate>
+    <lastBuildDate>Tue, 08 Oct 2024 10:47:02 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/portofolio/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Qucs Intro</title>
+      <link>http://localhost:1313/portofolio/posts/qucs-intro/</link>
+      <pubDate>Tue, 08 Oct 2024 10:47:02 +0700</pubDate>
+      <guid>http://localhost:1313/portofolio/posts/qucs-intro/</guid>
+      <description>&lt;ul&gt;&#xA;&lt;li&gt;Einleitung&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Qucs merupakan salah satu simulator elektronika yang gratis. Dengan lisensi GPL artinya Qucs merupakan opensource yang diperuntukan untuk kebebasan.&lt;/p&gt;&#xA;&lt;p&gt;Mensimulasikan rangkaian elektronik menjadi penting untuk para mahasiswa, siswa atau penghobi elektronik untuk melihat bentuk sinyal yang muncul dalam rangkaian elektronik tersebut.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Instalasi&#xA;Saya menggunakan ubuntu 22.04 saat dokument ini ditulis. Sebenarnya Qucs bisa diinstall dalam beragam operating system seperti windows dan macos. Namun dalam dokument ini saya hanya memberikan tutorial dalam menginstalasi dalam ubuntu 22.04.&#xA;Karena sudah terdapat dalam repository snapd ubuntu kita bisa langsung menginstallnya dengan command berikut&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;div class=&#34;highlight&#34;&gt;&lt;pre tabindex=&#34;0&#34; style=&#34;background-color:#fff;-moz-tab-size:4;-o-tab-size:4;tab-size:4;&#34;&gt;&lt;code class=&#34;language-bash&#34; data-lang=&#34;bash&#34;&gt;&lt;span style=&#34;display:flex;&#34;&gt;&lt;span&gt;sudo snap install qucs-spice --classic&#xA;&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;p&gt;Saya juga perlu menginstall octave dan ngspice sebagai toolkit untuk simulasi rangkaian dan operasi matematika atau sinyal processing&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Nuttx dengan Qemu</title>
       <link>http://localhost:1313/portofolio/posts/nuttxwithqemu/</link>

@@ -1,0 +1,28 @@
+---
+title : 'Qucs Intro'
+date : 2024-10-08T10:47:02+07:00
+draft : true
+toc : true
+---
+
+* Einleitung
+
+Qucs merupakan salah satu simulator elektronika yang gratis. Dengan lisensi GPL artinya Qucs merupakan opensource yang diperuntukan untuk kebebasan.
+
+Mensimulasikan rangkaian elektronik menjadi penting untuk para mahasiswa, siswa atau penghobi elektronik untuk melihat bentuk sinyal yang muncul dalam rangkaian elektronik tersebut.
+
+* Instalasi 
+Saya menggunakan ubuntu 22.04 saat dokument ini ditulis. Sebenarnya Qucs bisa diinstall dalam beragam operating system seperti windows dan macos. Namun dalam dokument ini saya hanya memberikan tutorial dalam menginstalasi dalam ubuntu 22.04.
+Karena sudah terdapat dalam repository snapd ubuntu kita bisa langsung menginstallnya dengan command berikut
+
+```bash
+sudo snap install qucs-spice --classic
+```
+Saya juga perlu menginstall octave dan ngspice sebagai toolkit untuk simulasi rangkaian dan operasi matematika atau sinyal processing
+
+```bash
+sudo apt-get install ngspice octave
+```
+
+* Memulai simulasi pertama
+Dalam simulasi pertama kita akan membuat sebuah rangkaian filter yang terdiri dari Capacitor dan resistor. Kita kan melihat nilai frequensi yang mempengaruhi nilai daya rata-rata dari capacitor.

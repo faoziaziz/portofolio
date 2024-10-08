@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/portofolio/</loc>
+    <lastmod>2024-10-08T10:47:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portofolio/posts/</loc>
+    <lastmod>2024-10-08T10:47:02+07:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/portofolio/posts/qucs-intro/</loc>
+    <lastmod>2024-10-08T10:47:02+07:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/portofolio/tags/c/</loc>
     <lastmod>2024-10-06T14:21:53+07:00</lastmod>
   </url><url>
@@ -12,12 +21,6 @@
     <lastmod>2024-10-06T14:21:53+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portofolio/posts/nuttxwithqemu/</loc>
-    <lastmod>2024-10-06T14:21:53+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portofolio/</loc>
-    <lastmod>2024-10-06T14:21:53+07:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/portofolio/posts/</loc>
     <lastmod>2024-10-06T14:21:53+07:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/portofolio/tags/</loc>
