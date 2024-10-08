@@ -3,6 +3,15 @@ title : 'Qucs Intro'
 date : 2024-10-08T10:47:02+07:00
 draft : true
 toc : true
+summary : "Bagian ini adalah tutorial untuk memulai projects dengan qucs"
+description : "Bagian ini adalah tutorial untuk memulai projects dengan qucs"
+readTime: true
+autonumber: true
+math: true
+tags: ["Electronics", "Qucs"]
+showTags: false
+hideBackToTop: false
+
 ---
 
 * Einleitung
