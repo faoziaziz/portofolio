@@ -1,5 +1,5 @@
 ---
-title : 'Menginat kembali OS melalui ZephyrOS'
+title : 'Mengingat kembali OS melalui ZephyrOS'
 date : 2024-10-12T16:28:24+07:00
 summary: "Mengingat kembali materi Operating System melalui ZephyrOS"
 description: "Mengingat kembali materi Operating System melalui ZephyrOS"
