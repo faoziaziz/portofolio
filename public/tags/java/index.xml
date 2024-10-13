@@ -6,8 +6,15 @@
     <description>Recent content in Java on Porto Aziz Faozi</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 03 Oct 2024 20:24:05 +0700</lastBuildDate>
+    <lastBuildDate>Sat, 12 Oct 2024 16:28:24 +0700</lastBuildDate>
     <atom:link href="http://localhost:1313/portofolio/tags/java/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Mengingat kembali OS melalui ZephyrOS</title>
+      <link>http://localhost:1313/portofolio/posts/zephyrosstart/</link>
+      <pubDate>Sat, 12 Oct 2024 16:28:24 +0700</pubDate>
+      <guid>http://localhost:1313/portofolio/posts/zephyrosstart/</guid>
+      <description>Mengingat kembali materi Operating System melalui ZephyrOS</description>
+    </item>
     <item>
       <title>My First Post</title>
       <link>http://localhost:1313/portofolio/posts/my-first-post/</link>
